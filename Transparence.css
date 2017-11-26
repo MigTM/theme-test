@@ -1,0 +1,107 @@
+/* popout recherche transparence */
+
+.themed-popout{background-color:rgba(0,0,0,.85)!important;border:none!important}.themed-popout .header{background-color:rgba(0,0,0,.3)!important}.themed-popout .footer{background-color:rgba(0,0,0,.3)!important}.themed-popout .header .title{color:#ddd!important}
+
+
+/* CONTENU TRANSPARENCE DU THEME */
+
+/* tout l'app */
+
+.container-2OU7Cz {
+    background-color: rgba(0, 0, 0, 0) !important;
+} 
+.appMount-14L89u {
+    background-color: rgba(0,0,0,0.0) !important;
+}
+
+/* liste des membres */
+
+.theme-dark .channel-members {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+/* liste des channels */ 
+.channels-3g2vYe {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+/* fond appel vocal serveur */
+
+.container-3lnMWU {
+	background-color: rgba(0,0,0,0.0) !important;
+}
+
+/* liste des serveur */ 
+
+.guilds-wrapper {
+    background-color: rgba(0, 0, 0,0.51)!important;
+}
+
+/* chat et barre de message pour écrire*/
+.content .flex-spacer {
+    background-color: rgba(0, 0, 0, 0.45) !important;
+}
+
+/* barre du haut */
+
+.titleBar-3_fDwJ {
+	background-color: rgba(0,0,0,0.83) !important;
+}
+
+/* barre du nom du channel */
+
+.chat .titleWrapper-3Vi_wz {
+	background-color: rgba(0,0,0,0.4);
+}
+
+/* paramètres */
+
+.ui-standard-sidebar-view { 
+	background-color: rgba(0,0,0,0.55) !important; 
+}
+
+/* fond des recaps des mise a jour de discord */
+
+.modal-2LIEKY .inner-1_1f7b .modal-3HOjGZ, .modal-2LIEKY .footer-1PYmcw { 
+	background-color: rgba(0,0,0,0.25) !important; 
+}
+
+/*transparence popout */
+
+.inner-1_1f7b .sizeSmall-1sh0-r .header-3sp3cE,.sizeSmall-1sh0-r .themeGhostHairline-2H8SiW,.sizeMedium-1-2BNS .themeGhostHairline-2H8SiW,.inner-1_1f7b .sizeSmall-1sh0-r .footer-1PYmcw, .inner-1_1f7b .directionColumn-2h-LPR .inputDefault-Y_U37D{ background-color: var(--couleur-theme-0-2) !important; }
+
+.inner-tqJwAU .marginBottom20-2Ifj-2 .radioGroup-2P3MJo [class*="card"], .overrideList-1eeJcg .cardPrimaryOutline-2YyAz2 { background-color: var(--couleur-theme-0-2) !important; }
+
+.largeSpacing-MwF-lr .Select-multi-value-wrapper .Select-placeholder { background-color: var(--couleur-theme-0-2); border: 1px solid var(--couleur-theme); }
+
+.theme-dark .user-settings-voice .preview-overlay { background-color: rgba(0,0,0,0.4) !important; border-color: rgba(0,0,0,0.3) !important;}
+
+.not-detected { background-color: var(--couleur-theme) !important; }
+
+/* transparence popout... */
+
+.popout-menu, .emoji-picker, .messages-popout-wrap, .messages-popout-wrap .header, .messages-popout-wrap .footer, .messages-popout .message-group, .action-buttons, .jump-button, .context-menu, .item-group .item, .private-channel-recipients-invite,.private-channel-recipients-invite .header,.private-channel-recipients-invite .scrollerWrap-2uBjct,.private-channel-recipients-invite .friend, .private-channel-recipients-invite .friend:hover{ background-color: rgba(0,0,0,0.5) !important; }
+
+
+/* transparence tout l'app */
+
+.app,.layers,.layer{background:transparent!important}
+
+.layers{background:rgba(0,0,0,0.6)!important} 
+
+/* transparence chat et liste des membres */
+
+.links,.chat,.typing,.content,.channels-wrap [class*="scroller-"],.private-channels,.divider-red span,.messages-wrapper,#rtc-connection{background:transparent!important}
+
+/* transparence custom css paramètre */
+
+.CodeMirror-gutters{border-right:none;background-color:rgba(0,0,0,.5);height:100%!important}.cm-s-material.CodeMirror,#bd-customcss-detach-container .cm-s-material.CodeMirror{background:rgba(0,0,0,.1)!important}.content-region .cm-s-material .CodeMirror-gutters,#bd-customcss-detach-container .cm-s-material .CodeMirror-gutters{background:rgba(0,0,0,.3)!important}.cm-s-material .CodeMirror-linenumber{color:hsla(0,0%,100%,.7)!important}.content-region #bd-customcss-attach-controls,#bd-customcss-detach-container #bd-customcss-attach-controls{background:rgba(0,0,0,.6);box-shadow:inset 0 1px 0 0 hsla(0,0%,100%,.1)}
+.CodeMirror-scroll{background-color:rgba(0,0,0,0.3)!important}
+
+/* transparence dans le menu des themes */
+
+.bda-slist .checkbox{margin-left:18px;margin-top:0}ul.bda-slist{margin-top:18px;width:588px}.bda-slist .bda-name{color:var(--main-color);font-weight:700;font-size:13.5px}.bda-slist .bda-description{color:#d2d2d2!important;border-top:1px solid var(--main-color);font-size:14px}.bda-slist li{background:rgba(0,0,0,.4)!important;border:none!important;margin-bottom:5px;border-radius:5px}
+
+/* transparence de la barre de menu a gauche de paramètre */
+
+.ui-standard-sidebar-view,.ui-standard-sidebar-view .sidebar-region,.ui-standard-sidebar-view .content-region{background:transparent!important}
